@@ -9,7 +9,7 @@ def calculate_hash(file_path):
     return sha256_hash.hexdigest()
 
 # Example usage
-file_path = 'File Analysis Script 3.2/POLISON-MANGONA-ACT1.docx'
+file_path = 'File Analysis Script/file.docx'
 file_metadata = os.stat(file_path)
 print(f"File: {file_path}")
 print(f"Created: {file_metadata.st_ctime}")
