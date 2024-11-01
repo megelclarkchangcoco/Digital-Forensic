@@ -31,9 +31,9 @@ This report covers the objectives, script development process, testing, and resu
 ### 4.2 File Analysis Script Testing
 - Describe the testing process and results for the file analysis script.
 
-## Practice Dataset
+### Practice Dataset
 The Practice Dataset folder is designed to provide data files essential for testing forensic scripts and simulating analysis tasks. This folder automatically generates two CSV files:
 
-### 1. system_log_files_dataset.csv: Contains simulated system log data, including event timestamps, user activities, IP addresses, and system status indicators. This dataset supports the development and testing of data parsing scripts, helping students learn to extract and analyze system log information for forensic insights.
+- 1. system_log_files_dataset.csv: Contains simulated system log data, including event timestamps, user activities, IP addresses, and system status indicators. This dataset supports the development and testing of data parsing scripts, helping students learn to extract and analyze system log information for forensic insights.
 
-### 2. malware_analysis_dataset.csv: Provides a set of data entries relevant to malware analysis, including file paths, hash values, malware signatures, and threat levels. This dataset enables practice with identifying and verifying potential malware threats through automated analysis.
+- 2. malware_analysis_dataset.csv: Provides a set of data entries relevant to malware analysis, including file paths, hash values, malware signatures, and threat levels. This dataset enables practice with identifying and verifying potential malware threats through automated analysis.
